@@ -1,0 +1,23 @@
+
+### Send POST request with json body
+POST http://localhost:8080/api/v1/users
+Content-Type: application/json
+
+{
+  "name": "Abissa",
+  "phoneNumber": "+250791431950",
+  "password": "abissa"
+}
+
+### GET request with parameter
+GET http://localhost:8080/api/v1/users?phoneNumber=250791431950
+Content-Type: application/json
+
+### GET request with parameter
+GET http://localhost:8080/api/v1/users/1
+Accept: application/json
+
+### GET request with parameter
+GET http://localhost:8080/api/v1/users
+Accept: application/json
+
