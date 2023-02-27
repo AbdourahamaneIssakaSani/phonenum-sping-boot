@@ -7,4 +7,5 @@
 
 ## Tests Coverage
 
-![all test stats](https://user-images.githubusercontent.com/67793634/221037328-1cabe86c-5805-41cf-9d25-09d9b1ecf100.jpg)
+![all test stats](https://user-images.githubusercontent.com/67793634/221549571-cf4d6268-b30f-415a-a2ef-76438647f33b.jpg)
+
